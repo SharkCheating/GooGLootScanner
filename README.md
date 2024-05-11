@@ -9,3 +9,9 @@
 3. Show a outline (custom color)
 4. Sound when something is dropped
 ```
+
+# Is it safe?
+
+```
+Over 100+ people used this plugin for Exileapi and no one got banned.
+```
