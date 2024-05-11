@@ -13,5 +13,5 @@
 # Is it safe?
 
 ```
-Over 100+ people used this plugin for Exileapi and no one got banned.
+Over 100+ people used this plugin for <a href="https://github.com/exApiTools/ExileApi-Compiled">Exile Api</a> and no one got banned.
 ```
