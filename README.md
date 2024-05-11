@@ -1,2 +1,2 @@
-# GoGLootScanner
-![image](https://github.com/SharkCheating/GoGLootScanner/assets/167468191/51850f3d-8e7e-4bde-8a6a-2b515f80f94c)
+# GoGLootScanner For ExileApi
+![image](https://github.com/SharkCheating/GoGLootScanner/assets/167468191/e12dc169-48df-4b3e-bb35-886d1016a1c4)
