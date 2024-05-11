@@ -4,5 +4,8 @@
 # Features:
 
 ```
-1. 
+1. Show a line to the item
+2. Show the item box with the item name (even if it is unidentified) (lootfilter design)
+3. Show a outline (custom color)
+4. Sound when something is dropped
 ```
